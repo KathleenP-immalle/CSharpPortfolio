@@ -2,4 +2,4 @@
 
 ## Iteratie 
 
-[Iteratie over een lijst](https://github.com/KathleenP-immalle/CSharpPortfolio/Lijsten/Iteratie.md)
+[Iteratie over een lijst](https://github.com/KathleenP-immalle/CSharpPortfolio/blob/master/Lijsten/Iteratie.md)
