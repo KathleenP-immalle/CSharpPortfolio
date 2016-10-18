@@ -1,5 +1,8 @@
 # CSharpPortfolio
 
-## Iteratie 
+## Lijsten 
 
-[Iteratie over een lijst](https://github.com/KathleenP-immalle/CSharpPortfolio/blob/master/Lijsten/Iteratie.md)
+ - [Initialisatie van een lijst](https://github.com/KathleenP-immalle/CSharpPortfolio/blob/master/Lijsten/Initialisatie.md)
+ - [Iteratie over een lijst](https://github.com/KathleenP-immalle/CSharpPortfolio/blob/master/Lijsten/Iteratie.md)
+ 
+ 
